@@ -38,3 +38,4 @@ Map 是一种集合，所以我们可以像迭代数组和切片那样迭代它�
 
 [视频地址](https://www.imooc.com/learn/982)
 [代码地址](https://github.com/itsmikej/imooc_logprocess/blob/master/full/log_process_full.go)
+[go连接数据库](https://www.yuque.com/docs/share/b4b6aed5-a246-4e63-9633-98ee8841e0a7)
